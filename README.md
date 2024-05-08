@@ -46,7 +46,7 @@ I am an accomplished international business graduate and entry-level data analyt
  
  📫 How to reach me gavinsw14@gmail.com
  
- ⚡ Fun fact: I've been on the Unsplash editoral page four times. 
+ ⚡ Fun fact: I've been on the Unsplash editoral page eight times. 
 
 
 </td><td valign="top" width="50%">
