@@ -1,4 +1,4 @@
-## Hey 👋, I'm Gavin Wilson!  
+## Hey 👋, I'm Gavin!  
   
 
 <a href="https://github.com/Gavin-Wda" target="_blank">
@@ -18,18 +18,19 @@
 
 
 ### Glad to see you here!  
-I am an accomplished international business graduate and entry-level data analytics professional. Excellent proficiency and comprehension of platforms utilized for effective data analysis, including Sheets and Excel, SQL, Tableau, and Python, with the utilization and understanding of machine learning. Strong communicating, analytical, team, and cultural awareness skills. Seeking a full-time role in the field of data analytics.   
+I am an accomplished international business graduate and entry-level data analytics professional. Excellent proficiency and comprehension of platforms utilized for effective data analysis, including Sheets, advanced Excel, SQL, Tableau, and Python, with the utilization and understanding of machine learning. Strong communicating, analytical, team, and cultural awareness skills. Seeking a full-time role in the field of data analytics.   
   
 
 
 
 ### Skills  
-- Data Analysis 
+- Exploratory Data Analysis
 - Data Cleaning 
-- Data Visualization 
+- Data Visualization / Dashboards
 - Machine Learning 
 - Programming 
-- International Team Functions 
+- Cross-functional Collaboration
+- Ability to Manage Priorities
 - Adaptability 
 - Sensibility 
 - Curiosity   
