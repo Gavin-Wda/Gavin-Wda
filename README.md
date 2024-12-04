@@ -16,11 +16,9 @@
   
 
 
-
 ### Glad to see you here!  
-I am an accomplished international business graduate and entry-level data analytics professional. Excellent proficiency and comprehension of platforms utilized for effective data analysis, including Sheets, advanced Excel, SQL, Tableau, and Python, with the utilization and understanding of machine learning. Strong communicating, analytical, team, and cultural awareness skills. Seeking a full-time role in the field of data analytics.   
+I am an accomplished international business graduate and entry-level data analytics professional. Excellent proficiency and comprehension of platforms utilized for effective data analysis, including Sheets, advanced Excel, SQL, Tableau, Power BI, and Python, with the utilization and understanding of machine learning. Strong communicating, analytical, team, and cultural awareness skills. Seeking a full-time role in the field of data analytics.   
   
-
 
 
 ### Skills  
